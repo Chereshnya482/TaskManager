@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4f85091-9294-48c0-bf76-a8baffc8a5f5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uml/PLAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/PLAN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uml/requirements.md" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uml/sequence_add_task.md" beforeDir="false" afterPath="$PROJECT_DIR$/uml/sequence_add_task.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uml/specs.md" beforeDir="false" afterPath="$PROJECT_DIR$/specs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uml/use_case.md" beforeDir="false" afterPath="$PROJECT_DIR$/uml/use_case.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
